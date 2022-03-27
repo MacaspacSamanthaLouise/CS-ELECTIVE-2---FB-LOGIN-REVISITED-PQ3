@@ -1,0 +1,15 @@
+
+.form {
+background-color: #ffffff;
+-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+padding: 20px;
+padding-bottom: 10px;
+border-radius: 8px;
+}
+
+
+
+.container {
+margin-top: 150px;
+}
